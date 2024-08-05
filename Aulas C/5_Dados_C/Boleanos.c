@@ -22,7 +22,7 @@ int main() {
 
 
 //CAST (converte apenas a variável que vc quer para outro genero)
-* Não funciona de int para float, apenas o contrário (float para int).
+//* Não funciona de int para float, apenas o contrário (float para int).
 
 int main(){
     float resp, num1, num2;

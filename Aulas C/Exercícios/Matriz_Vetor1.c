@@ -3,7 +3,7 @@
 int main(){
     int A[6], var;
         var = 0;
-    
+
             A[0] = 1;
             A[1] = 0;
             A[2] = 5;
